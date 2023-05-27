@@ -1,0 +1,44 @@
+
+.type{
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    background-color: #011b28; 
+    font-family: "Roboto extraLight";
+}
+
+
+.greet{
+    text-align: left;
+    background-image: url("./images/bg.gif");
+    color: rgb(198, 151, 169);
+    padding: 120px 40px;
+    /*background-size: 1520px 420px;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.display-2{
+    color:rgb(242, 236, 236);
+}
+.navbar-brand{
+    padding-left: 30px;
+}
+.navbar{
+    padding: 20px;
+} 
+.row{
+    padding: 40px 100px;
+    color: #011b28;
+}
+.card-img-top{
+    height: 200px;
+    width: 310px;
+}
+.footer-copyright{
+    background-color: #272626;
+    color: aliceblue;
+    
+}
+.Navlink{
+    margin: 10px;
+}

@@ -1,0 +1,56 @@
+
+  
+  #processTable {
+    color: rgb(73, 72, 72);
+  }
+  
+  .priority {
+    background: #dadce2;
+    border: none;
+    border-bottom: 1px solid #e2dfdf;
+    text-align: center;
+  }
+  
+  .result {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  
+  .inner-result tbody {
+    background: rgb(121, 127, 189);
+  }
+  
+  #cover {
+    background-color: #d3d7e2;
+    height: 102px;
+    position: absolute;
+    top: 328px;
+    left: 113px;
+    width: 0;
+    opacity: 1;
+  }
+  
+  #cover.remove-cover {
+    opacity: 1;
+    height: 102px;
+    width: 1116px;
+  }
+  
+  .timer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    color: rgb(44, 39, 39);
+  }
+  
+  .quantum {
+    width: 5em;
+  }
+  /*# sourceMappingURL=Scheduling.css.map */
